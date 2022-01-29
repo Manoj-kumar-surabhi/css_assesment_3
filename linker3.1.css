@@ -1,0 +1,45 @@
+.footer{
+    border: 5px solid purple;
+    margin: 20px 20% 0px 20%;
+    width: auto;
+    height: auto;
+    position: relative;
+    z-index: 1;
+   
+}
+.footer1{
+    
+  margin: 15px;
+ text-align: center;
+
+}
+.footer2{
+    padding-top: 15px;
+    width: 48%;
+    height: 300px;
+    text-align: center;
+    color: royalblue;
+    background-color: silver;
+    margin: 10px;
+
+}
+.footer3{
+    padding-top: 15px;
+    position: absolute;
+    right: 0;
+    top: 54.4px;
+    width: 48%;
+    height: 300px;
+    text-align: center;
+    color: royalblue;
+    background-color: silver;
+    margin: 10px;
+}
+.footer4{
+    width: 95%;
+    margin: 10px 0px;
+    text-align: center;
+    color: royalblue;
+    background-color: silver;
+    padding: 20px;
+}

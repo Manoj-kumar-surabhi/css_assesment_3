@@ -1,0 +1,106 @@
+body{
+  background-image: url(http://www.pngmagic.com/product_images/light-plain-color-background-bg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.header{
+    margin: 0 auto;
+    color: black;
+    background-color: yellow;
+    border: 5px solid black;
+    border-radius: 15px;
+    box-shadow: 6px 6px 5px black;
+    text-align: center;
+    width:400px ; 
+    height: auto;
+    
+}
+.middle{
+    position: relative;
+    border: 4px solid cyan;
+}
+.middle_content1{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 300px;
+    color: chartreuse;
+    border: 5px solid blue;
+    border-radius: 15px;
+    box-shadow: 6px 6px 5px dodgerblue;
+    background-color: honeydew;
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 30px;
+    
+
+}  
+.middle_content2{
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 300px;
+    height: 300px;
+    border: 5px solid blue;
+    border-radius: 15px;
+    background-color: honeydew;
+    box-shadow: 6px 6px 5px dodgerblue inset;
+    text-align: center;
+  
+  
+} 
+.floater{
+    font-size: 30px;
+    position: fixed;
+    top: 550px;
+    left: 32.5%; 
+    width: 550px;
+    height: 100px;
+    text-align: center;
+    color: lime;
+    border: 5px solid dodgerblue;
+    border-radius: 15px;
+    background-color: honeydew;
+    box-shadow: 6px 6px 5px dodgerblue inset;
+    box-shadow: 6px 6px 5px dodgerblue;
+    z-index: 2;
+} 
+#floater1{
+    position: absolute;
+    left: 0px;
+    padding-top: 25px;
+  
+}
+#floater2{
+    position: absolute;
+    right: 0px;
+    padding-top: 25px;
+}
+.middle_content3{
+    width: 300px;
+    height: 350px;
+    color: chartreuse;
+    border: 5px solid blue;
+    border-radius: 15px;
+    background-color: honeydew;
+    box-shadow: 6px 6px 5px dodgerblue ;
+    text-align: center;
+    margin-top: 50px;
+  
+}  
+.middle_content4{
+   
+    position: absolute;
+    top: 365px;
+    right: 0px;
+    width: 300px;
+    height: 345px;
+    border: 5px solid blue;
+    border-radius: 15px;
+    background-color: honeydew;
+    box-shadow: 6px 6px 5px dodgerblue inset;
+    text-align: center;  
+}
+
